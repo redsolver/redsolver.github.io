@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SkyFeed</title>
-    <link>https://redsolver.github.io/</link>
+    <link>https://solver.blog/</link>
     <description>Recent content on SkyFeed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Dec 2020 09:57:37 +0000</lastBuildDate><atom:link href="https://redsolver.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Dec 2020 09:57:37 +0000</lastBuildDate><atom:link href="https://solver.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Skynet Send is now SkySend!</title>
-      <link>https://redsolver.github.io/posts/4-1/</link>
+      <link>https://solver.blog/posts/4-1/</link>
       <pubDate>Tue, 22 Dec 2020 09:57:37 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/4-1/</guid>
+      <guid>https://solver.blog/posts/4-1/</guid>
       <description>SkySend is an open source, highly secure, private and decentralized way to send and share your files using Skynet.
 This new release also automatically detects the portal you&amp;rsquo;re on and uses it for up- and downloading file chunks.
 sia://skysend.hns/</description>
@@ -20,19 +20,19 @@ sia://skysend.hns/</description>
     
     <item>
       <title>Listen to the last Community Dev Call for the year 🎧</title>
-      <link>https://redsolver.github.io/posts/4-0/</link>
+      <link>https://solver.blog/posts/4-0/</link>
       <pubDate>Mon, 21 Dec 2020 14:37:19 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/4-0/</guid>
+      <guid>https://solver.blog/posts/4-0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎶 Zelda &amp; Chill 2 🎶</title>
-      <link>https://redsolver.github.io/posts/3-14/</link>
+      <link>https://solver.blog/posts/3-14/</link>
       <pubDate>Sat, 19 Dec 2020 20:46:44 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/3-14/</guid>
+      <guid>https://solver.blog/posts/3-14/</guid>
       <description>video game music arranged as lofi hip hop drum beats
 CC BY-SA 3.0 GameChops
 Support the artist by buying the album on Bandcamp! (see link)
@@ -42,46 +42,46 @@ https://music.gamechops.com/album/zelda-chill-2</description>
     
     <item>
       <title>Check this out!</title>
-      <link>https://redsolver.github.io/posts/3-10/</link>
+      <link>https://solver.blog/posts/3-10/</link>
       <pubDate>Thu, 17 Dec 2020 21:47:23 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/3-10/</guid>
+      <guid>https://solver.blog/posts/3-10/</guid>
       <description>sia://hackerpaste.hns/</description>
     </item>
     
     <item>
       <title>⭐ Small SkyFeed Update ⭐</title>
-      <link>https://redsolver.github.io/posts/3-9/</link>
+      <link>https://solver.blog/posts/3-9/</link>
       <pubDate>Wed, 16 Dec 2020 12:44:28 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/3-9/</guid>
+      <guid>https://solver.blog/posts/3-9/</guid>
       <description>The Dark Mode is now a bit darker, this should improve the readability! (Thanks to @Napster for the feedback) There&amp;rsquo;s now a &amp;ldquo;Frequently used&amp;rdquo; section in the emoji picker which is synced to all of your devices  Also, I want to explain the issue that emojis are not loading in some browsers. (See comment)</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://redsolver.github.io/posts/3-8/</link>
+      <link>https://solver.blog/posts/3-8/</link>
       <pubDate>Tue, 15 Dec 2020 19:45:05 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/3-8/</guid>
+      <guid>https://solver.blog/posts/3-8/</guid>
       <description>Thank you all for using SkyFeed and providing extensive feedback that helped us make it to what it is today! We are obviously extremely happy that we won and will of course continue releasing awesome new features. 😄 Next up are polls, direct messages and mentions!</description>
     </item>
     
     <item>
       <title>There was a small bug in the emoji reaction feature, please refresh the page to get the fix! 😀</title>
-      <link>https://redsolver.github.io/posts/3-6/</link>
+      <link>https://solver.blog/posts/3-6/</link>
       <pubDate>Sun, 13 Dec 2020 21:19:26 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/3-6/</guid>
+      <guid>https://solver.blog/posts/3-6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New SkyFeed Beta Release</title>
-      <link>https://redsolver.github.io/posts/3-5/</link>
+      <link>https://solver.blog/posts/3-5/</link>
       <pubDate>Sun, 13 Dec 2020 20:44:11 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/3-5/</guid>
+      <guid>https://solver.blog/posts/3-5/</guid>
       <description>Emoji reactions are now available on web, just refresh the website to use them. This release also includes the new emoji picker and some performance improvements!
 The android app will be updated tomorrow.
 Have fun!</description>
@@ -89,46 +89,46 @@ Have fun!</description>
     
     <item>
       <title>1053 new lines of code later, reactions are almost ready for release! 😀</title>
-      <link>https://redsolver.github.io/posts/3-4/</link>
+      <link>https://solver.blog/posts/3-4/</link>
       <pubDate>Sun, 13 Dec 2020 16:02:37 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/3-4/</guid>
+      <guid>https://solver.blog/posts/3-4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>oops I forgot to mention the end-to-end-encrypted direct messages!</title>
-      <link>https://redsolver.github.io/posts/3-1/</link>
+      <link>https://solver.blog/posts/3-1/</link>
       <pubDate>Wed, 09 Dec 2020 22:08:37 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/3-1/</guid>
+      <guid>https://solver.blog/posts/3-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Check out this data!</title>
-      <link>https://redsolver.github.io/posts/3-0/</link>
+      <link>https://solver.blog/posts/3-0/</link>
       <pubDate>Wed, 09 Dec 2020 21:39:40 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/3-0/</guid>
+      <guid>https://solver.blog/posts/3-0/</guid>
       <description>sia://hackerpaste.hns/#CAAcw7nb8C8kDQRLTiwyL01aEL-RkBKL5yJbdJDutSUhXwoLe6covA_Qmzda-B3J7U.json</description>
     </item>
     
     <item>
       <title>Listen to the Community Dev Call for November 🎧</title>
-      <link>https://redsolver.github.io/posts/2-13/</link>
+      <link>https://solver.blog/posts/2-13/</link>
       <pubDate>Sat, 05 Dec 2020 16:35:10 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/2-13/</guid>
+      <guid>https://solver.blog/posts/2-13/</guid>
       <description>SkyFeed automatically saves your position when you&amp;rsquo;re logged in, so you can take a break and continue right where you left off, even on different devices!</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://redsolver.github.io/posts/2-10/</link>
+      <link>https://solver.blog/posts/2-10/</link>
       <pubDate>Sun, 29 Nov 2020 12:05:50 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/2-10/</guid>
+      <guid>https://solver.blog/posts/2-10/</guid>
       <description>Hi everyone, please let me know which of these features you would like to see the most on SkyFeed and why!
  Mention other users with @ Handshake Username Verification Likes and/or Emoji Reactions Optional markdown support Custom color theme with sync and share functionality  If you have a feature request not listed here, please add it on GitHub!
 https://github.com/redsolver/skyfeed/issues</description>
@@ -136,74 +136,74 @@ https://github.com/redsolver/skyfeed/issues</description>
     
     <item>
       <title>Image</title>
-      <link>https://redsolver.github.io/posts/2-5/</link>
+      <link>https://solver.blog/posts/2-5/</link>
       <pubDate>Mon, 23 Nov 2020 22:18:09 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/2-5/</guid>
+      <guid>https://solver.blog/posts/2-5/</guid>
       <description>https://www.reddit.com/r/memes/comments/j8xm2z/its_gif_saturday/</description>
     </item>
     
     <item>
       <title>SkyFeed is now open-source under the MIT license!</title>
-      <link>https://redsolver.github.io/posts/2-0/</link>
+      <link>https://solver.blog/posts/2-0/</link>
       <pubDate>Mon, 23 Nov 2020 18:32:18 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/2-0/</guid>
+      <guid>https://solver.blog/posts/2-0/</guid>
       <description>https://github.com/redsolver/skyfeed</description>
     </item>
     
     <item>
       <title>Question: Should I license SkyFeed under MIT or GPL?</title>
-      <link>https://redsolver.github.io/posts/1-15/</link>
+      <link>https://solver.blog/posts/1-15/</link>
       <pubDate>Sun, 22 Nov 2020 15:36:34 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/1-15/</guid>
+      <guid>https://solver.blog/posts/1-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SkyFeed Beta 0.4</title>
-      <link>https://redsolver.github.io/posts/1-13/</link>
+      <link>https://solver.blog/posts/1-13/</link>
       <pubDate>Sun, 22 Nov 2020 11:54:12 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/1-13/</guid>
+      <guid>https://solver.blog/posts/1-13/</guid>
       <description>Dark Mode! (3 options: system, light, dark) You can now delete your own posts. Please note that this breaks all reposts and comments You can now see a list of followers and follows of a user New loading indicators for reposting and saving The comment count now includes nested comments Actions that require login are now hidden when logged out design optimizations and bug fixes  Request features and report bugs on GitHub.</description>
     </item>
     
     <item>
       <title>SkyFeed Beta Update</title>
-      <link>https://redsolver.github.io/posts/1-11/</link>
+      <link>https://solver.blog/posts/1-11/</link>
       <pubDate>Sat, 21 Nov 2020 14:08:09 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/1-11/</guid>
+      <guid>https://solver.blog/posts/1-11/</guid>
       <description>Notification when someone follows you You can accept the &amp;ldquo;follow&amp;rdquo; request to add this user to your &amp;ldquo;followers&amp;rdquo; list and count Scroll positions are persisted when you navigate away from a feed Create post on the mobile version Arrow Key Scrolling bug fixes  You can refollow someone if you want to be added to their followers list.
 Please add feature requests and bug reports on GitHub. You can also upvote feature requests you like there.</description>
     </item>
     
     <item>
       <title>Hello from Android!</title>
-      <link>https://redsolver.github.io/posts/1-9/</link>
+      <link>https://solver.blog/posts/1-9/</link>
       <pubDate>Fri, 20 Nov 2020 23:18:17 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/1-9/</guid>
+      <guid>https://solver.blog/posts/1-9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video test</title>
-      <link>https://redsolver.github.io/posts/1-8/</link>
+      <link>https://solver.blog/posts/1-8/</link>
       <pubDate>Fri, 20 Nov 2020 17:58:12 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/1-8/</guid>
+      <guid>https://solver.blog/posts/1-8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>*** Important SkyFeed Beta announcement ***</title>
-      <link>https://redsolver.github.io/posts/1-6/</link>
+      <link>https://solver.blog/posts/1-6/</link>
       <pubDate>Wed, 18 Nov 2020 18:04:19 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/1-6/</guid>
+      <guid>https://solver.blog/posts/1-6/</guid>
       <description>There was a bug which caused other users to not see your posts and comments at 16+ posts.
 *** What you need to do to fix this bug for your profile ***
  Reload SkyFeed and check the version number on the left (Should be Beta 0.2) Post something Comment on a random post  This may cause one or two of your posts to disappear, but everything should now work fine for new posts.</description>
@@ -211,145 +211,145 @@ Please add feature requests and bug reports on GitHub. You can also upvote featu
     
     <item>
       <title>SkyDB Mid Hack Demo Day starting soon!</title>
-      <link>https://redsolver.github.io/posts/1-4/</link>
+      <link>https://solver.blog/posts/1-4/</link>
       <pubDate>Tue, 17 Nov 2020 15:01:06 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/1-4/</guid>
+      <guid>https://solver.blog/posts/1-4/</guid>
       <description>https://www.airmeet.com/e/7a079cf0-1aee-11eb-84bc-bd72c9aea437</description>
     </item>
     
     <item>
       <title>Report issues here</title>
-      <link>https://redsolver.github.io/posts/1-1/</link>
+      <link>https://solver.blog/posts/1-1/</link>
       <pubDate>Mon, 16 Nov 2020 16:13:59 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/1-1/</guid>
+      <guid>https://solver.blog/posts/1-1/</guid>
       <description>https://github.com/redsolver/skyfeed/issues</description>
     </item>
     
     <item>
       <title>BlockChannel Episode 77: Decentralized Clouds and DWeb Namespaces, with David Vorick</title>
-      <link>https://redsolver.github.io/posts/0-14/</link>
+      <link>https://solver.blog/posts/0-14/</link>
       <pubDate>Sun, 15 Nov 2020 17:53:55 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/0-14/</guid>
+      <guid>https://solver.blog/posts/0-14/</guid>
       <description>https://medium.com/blockchannel/episode-77-decentralized-clouds-and-dweb-namespaces-with-david-vorick-43cb3b902530</description>
     </item>
     
     <item>
       <title>test</title>
-      <link>https://redsolver.github.io/posts/0-13/</link>
+      <link>https://solver.blog/posts/0-13/</link>
       <pubDate>Sun, 15 Nov 2020 17:42:41 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/0-13/</guid>
+      <guid>https://solver.blog/posts/0-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hello</title>
-      <link>https://redsolver.github.io/posts/0-11/</link>
+      <link>https://solver.blog/posts/0-11/</link>
       <pubDate>Sun, 15 Nov 2020 16:55:40 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/0-11/</guid>
+      <guid>https://solver.blog/posts/0-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SkyFeed CHANGELOG</title>
-      <link>https://redsolver.github.io/posts/0-10/</link>
+      <link>https://solver.blog/posts/0-10/</link>
       <pubDate>Sun, 15 Nov 2020 16:36:39 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/0-10/</guid>
+      <guid>https://solver.blog/posts/0-10/</guid>
       <description>Audio upload and playback (mp3; music, podcasts, &amp;hellip;) Your video and audio positions are now automatically saved and synced to SkyDB (end-to-end encrypted) You can now post/comment by pressing CTRL + Enter Context of reposted comments is now shown Tall images are now centered Bug fixes   HNS Domain Name!  sia://skyfeed-beta.hns/</description>
     </item>
     
     <item>
       <title>Audio</title>
-      <link>https://redsolver.github.io/posts/0-9/</link>
+      <link>https://solver.blog/posts/0-9/</link>
       <pubDate>Sun, 15 Nov 2020 16:18:51 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/0-9/</guid>
+      <guid>https://solver.blog/posts/0-9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image</title>
-      <link>https://redsolver.github.io/posts/0-8/</link>
+      <link>https://solver.blog/posts/0-8/</link>
       <pubDate>Sat, 14 Nov 2020 22:54:49 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/0-8/</guid>
+      <guid>https://solver.blog/posts/0-8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to the Future 🚀</title>
-      <link>https://redsolver.github.io/posts/0-7/</link>
+      <link>https://solver.blog/posts/0-7/</link>
       <pubDate>Sat, 14 Nov 2020 21:42:09 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/0-7/</guid>
+      <guid>https://solver.blog/posts/0-7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ignore the thumbnail and try to watch this long video :D</title>
-      <link>https://redsolver.github.io/posts/0-6/</link>
+      <link>https://solver.blog/posts/0-6/</link>
       <pubDate>Thu, 12 Nov 2020 21:57:18 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/0-6/</guid>
+      <guid>https://solver.blog/posts/0-6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Please unfollow Napster&#39;s old profile</title>
-      <link>https://redsolver.github.io/posts/0-5/</link>
+      <link>https://solver.blog/posts/0-5/</link>
       <pubDate>Thu, 12 Nov 2020 21:20:11 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/0-5/</guid>
+      <guid>https://solver.blog/posts/0-5/</guid>
       <description>https://10081epmduhl3f3vf3a5n7d8g62581bbn0iaskvpdrro2h5epv082eg.siasky.net/#/user/d41044720a6090b494de22ec0b00e08974aa9159c07a43903b95e9f7bd577484</description>
     </item>
     
     <item>
       <title>Check out HackerPaste, encrypted pastebin on Skynet by @harej</title>
-      <link>https://redsolver.github.io/posts/0-3/</link>
+      <link>https://solver.blog/posts/0-3/</link>
       <pubDate>Thu, 12 Nov 2020 19:52:13 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/0-3/</guid>
+      <guid>https://solver.blog/posts/0-3/</guid>
       <description>sia://hackerpaste.hns/</description>
     </item>
     
     <item>
       <title>Skynet App Spotlight Video. Now in MP4!</title>
-      <link>https://redsolver.github.io/posts/0-2/</link>
+      <link>https://solver.blog/posts/0-2/</link>
       <pubDate>Thu, 12 Nov 2020 19:50:20 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/0-2/</guid>
+      <guid>https://solver.blog/posts/0-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SkyFeed CHANGELOG</title>
-      <link>https://redsolver.github.io/posts/0-1/</link>
+      <link>https://solver.blog/posts/0-1/</link>
       <pubDate>Thu, 12 Nov 2020 19:22:25 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/0-1/</guid>
+      <guid>https://solver.blog/posts/0-1/</guid>
       <description>Upgraded to Sky ID 1.0 Full support for sending Handshake domains and Skylinks. Clicking on images now opens them in a new tab (For fullscreen and downloading) The padding left and right of the feed is now also scrollable Uploads are now chunked, so giant videos are possible Made it clear that uploading a video requires you to upload a thumbnail first Empty text (also when using spaces) can&amp;rsquo;t be posted anymore.</description>
     </item>
     
     <item>
       <title>Hello, world!</title>
-      <link>https://redsolver.github.io/posts/0-0/</link>
+      <link>https://solver.blog/posts/0-0/</link>
       <pubDate>Thu, 12 Nov 2020 19:18:37 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/posts/0-0/</guid>
+      <guid>https://solver.blog/posts/0-0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://redsolver.github.io/contact/</link>
+      <link>https://solver.blog/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://redsolver.github.io/contact/</guid>
+      <guid>https://solver.blog/contact/</guid>
       <description></description>
     </item>
     
