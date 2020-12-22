@@ -6,7 +6,19 @@
     <description>Recent content in Posts on SkyFeed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Dec 2020 09:57:37 +0000</lastBuildDate><atom:link href="https://solver.blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Dec 2020 14:01:54 +0000</lastBuildDate><atom:link href="https://solver.blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experimental SkyFeed-to-Hugo converter</title>
+      <link>https://solver.blog/posts/4-2/</link>
+      <pubDate>Tue, 22 Dec 2020 14:01:54 +0000</pubDate>
+      
+      <guid>https://solver.blog/posts/4-2/</guid>
+      <description>It is now possible to sync your SkyFeed posts to your personal blog or website! The converter converts your posts into Markdown files which can be used by the Hugo or Jekyll static site generator to build your personal website.
+Thanks to @kbizz for this idea!
+Check out my example page:
+https://solver.blog</description>
+    </item>
+    
     <item>
       <title>Skynet Send is now SkySend!</title>
       <link>https://solver.blog/posts/4-1/</link>
